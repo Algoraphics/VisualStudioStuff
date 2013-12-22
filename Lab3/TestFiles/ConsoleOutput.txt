@@ -1,0 +1,299 @@
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 0:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 2:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 3:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
+<start> 3 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 0:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 2:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 3: (BUSY)
+        Play 0: partial_hamlet_act_ii_script (REQUESTED)
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 0:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 2:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 3: (BUSY)
+        Play 0: partial_hamlet_act_ii_script (RUNNING)
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
+<stop> 0
+Specified director is not performing a play
+<start> 3 0
+Specified director is busy
+<stop> 0
+Specified director is not performing a play
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 0:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 2:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 3:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 2:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 3:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 2:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available directors:
+
+Director 1:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+Director 4:
+        Play 0: partial_hamlet_act_ii_script
+        Play 1: partial_macbeth_act_i_script
+
+Available commands:
+        <start> [director id] [play id]
+        <stop> [director id]
+        <quit>
+Please enter a command:
